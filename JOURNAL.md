@@ -15,3 +15,14 @@ through the help of sources, i finished bom.csv with all of the verified links a
 thanks!![Screenshot 2025-10-26 224229](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTczMiwicHVyIjoiYmxvYl9pZCJ9fQ==--0f30e194a5241f2d143fcbe82ccde1707737bc29/Screenshot%202025-10-26%20224229.png)
   
 
+## 10/27/2025 - creating CAD files through OpenSCAD  
+
+hii guys...after finishing the readme and bom.csv, i got to working on the cad files which took me long enough as im doing it for the first time...
+the screenshot that im attaching is not the final work its still in the process, im still learning on how to do it :)
+i mean it went well..mostly chatgpt helped me but im learning too :)
+there were some errors in the starting but i fixed it without any help of AI so ill take that as a plus point :)
+that's it :)
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTkwOCwicHVyIjoiYmxvYl9pZCJ9fQ==--a41a70f1ca9e70ffad9fb2e1dd12add98d1117f9/image.png)
+
+  
+
