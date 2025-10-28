@@ -54,6 +54,7 @@ spent a few hours working on how to improve the CAD even more since thats the on
 
 i know the screenshot would loo like i hv done nothing..but dw im learning :)
 
-![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjIyOSwicHVyIjoiYmxvYl9pZCJ9fQ==--933d6e9d22cf48224102e8670ab15ceb5bbe2a83/image.png)
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjIzMCwicHVyIjoiYmxvYl9pZCJ9fQ==--70ae093c33b2cfd3f009235b2389b963469b8a5a/image.png)
+
   
 
