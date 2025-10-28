@@ -39,3 +39,12 @@ adding a screenshot to show my CAD :)
 
   
 
+## 10/28/2025 - made the CAD more better to reality  
+
+hi guys!...after yesterday, i tried to mimic every single component in the OPENSCAD and it kinda worked but after many errors..
+it was overall good for learning but i can still improve it more better to match it with reality :)
+thats it for today :)
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjEzOCwicHVyIjoiYmxvYl9pZCJ9fQ==--a86eedab423743a8e59ea13cdf96a38742c4edd3/image.png)
+  
+
