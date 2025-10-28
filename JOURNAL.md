@@ -39,12 +39,21 @@ adding a screenshot to show my CAD :)
 
   
 
-## 10/28/2025 - made the CAD more better to reality  
+## 10/28/2025 11 AM - made the CAD more better to reality  
 
 hi guys!...after yesterday, i tried to mimic every single component in the OPENSCAD and it kinda worked but after many errors..
 it was overall good for learning but i can still improve it more better to match it with reality :)
 thats it for today :)
 
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjEzOCwicHVyIjoiYmxvYl9pZCJ9fQ==--a86eedab423743a8e59ea13cdf96a38742c4edd3/image.png)
+  
+
+## 10/28/2025 10 PM - tryna improve SCAD  
+
+spent a few hours working on how to improve the CAD even more since thats the only one 3D design i could submit for a grant. it is tough, worse than before as the errors took a long time to solve along with building the components;
+
+i know the screenshot would loo like i hv done nothing..but dw im learning :)
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjIyOSwicHVyIjoiYmxvYl9pZCJ9fQ==--933d6e9d22cf48224102e8670ab15ceb5bbe2a83/image.png)
   
 
