@@ -58,3 +58,13 @@ i know the screenshot would loo like i hv done nothing..but dw im learning :)
 
   
 
+## 10/31/2025 - ready for ship 1  
+
+so i have fully completed my first stage of CAD and am ready for ship one to get my grant of $100
+this has been a good run with me learning new things and also having fun...cant wait to get the grant:)
+
+thats it:)
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzAyMSwicHVyIjoiYmxvYl9pZCJ9fQ==--c4fb4d2af22331a3d99d08f19d43bbe0eb56543e/image.png)
+  
+
