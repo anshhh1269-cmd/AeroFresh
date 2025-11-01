@@ -1,10 +1,15 @@
 # AeroFresh - The Flying Air Freshener Drone
-AeroFresh is a compact, desk-sized air freshener drone that lifts slightly or spins to disperse scent evenly in a room. It combines LEDs, motion sensing, and an aroma diffuser into one compact unit. Designed for makers who want a project that not only smells good, looks good, but also works smart. 
-It uses **mini propellers** to circulate the fragrance around the room and its environment, and a **heating resistor** to vaporize the oil from the small cotton reservoir 
-## Why I made this project
-My goal was to make something useful but also something that feels fun and outgoing with its eenvironment. It’s a project about making everyday objects more interactive using accessible components and open-source tools.
+hi guys!...so this is me trying to create a hardware project for the first time to add in my applications for my unis. I'm trying to create a drone that lifts slightly above the ground to disperse scent in a room or environment, combining LEDs, motion sensing, and an aroma diffuser into one unit. 
 
-## 🧠 How It Works
+Basically it uses propellers to fly and a DC fan to disperse the scent around the room with the help of a heating resistor to vaporize the scent oil.
+
+## Why I made this project
+
+My first goal for my first hardware project was to create something useful, as well as something that can move around, is fun to play with, and connects with its environment to enhance it with a pleasant scent. 
+
+
+
+## How It Works
 
 1. The **ESP32** controls motor speed (PWM), LED lighting (WS2812B), and heater timing.
 2. The **motors** generate airflow to spread aroma.
@@ -13,4 +18,7 @@ My goal was to make something useful but also something that feels fun and outgo
 5. The device runs on battery or USB input.
 
 ## Screenshots and Renders
+
+<img width="1389" height="658" alt="Screenshot 2025-10-31 224951" src="https://github.com/user-attachments/assets/42ade6be-0169-4db0-9117-7b88b825138c" />
+
 
