@@ -68,3 +68,11 @@ thats it:)
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzAyMSwicHVyIjoiYmxvYl9pZCJ9fQ==--c4fb4d2af22331a3d99d08f19d43bbe0eb56543e/image.png)
   
 
+## 11/2/2025 - made the CAD more better  
+
+hi guys...the project got rejected so im improving the CAD and will upload to Fusion
+it was relatively bad but it looks okay now and will try to make it better
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzY1MCwicHVyIjoiYmxvYl9pZCJ9fQ==--d3e5e675084ea6ac2bc25171cf23d61b2c715110/image.png)
+  
+
