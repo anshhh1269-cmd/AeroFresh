@@ -76,3 +76,15 @@ it was relatively bad but it looks okay now and will try to make it better
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzY1MCwicHVyIjoiYmxvYl9pZCJ9fQ==--d3e5e675084ea6ac2bc25171cf23d61b2c715110/image.png)
   
 
+## 11/6/2025 - Imported to onshape  
+
+hii guyss
+
+so first i tried to import the stl. file to the fusion 360 app, however i wanted to use onshape website which is working rlly well even though there are many errors :(
+
+i still working on making the 3D structure and i need to lock in since only twenty days left!
+thats it:)
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODg2MCwicHVyIjoiYmxvYl9pZCJ9fQ==--efe5761750e9efcd5da3145e1da13861b8e98f95/image.png)
+  
+
