@@ -88,3 +88,17 @@ thats it:)
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODg2MCwicHVyIjoiYmxvYl9pZCJ9fQ==--efe5761750e9efcd5da3145e1da13861b8e98f95/image.png)
   
 
+## 11/9/2025 - trying onshape for the first time  
+
+heyy guyss...
+
+trying to do onshape for the first time and its working okay....had some ups and downs but yea my rubber tile which is gonna hold all the components is kinda done..might work more..ill see
+
+thats it for today!
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTczMywicHVyIjoiYmxvYl9pZCJ9fQ==--c8a25d5622235ca234b15f8bb482d887435e94fb/image.png)
+![d1d4d7f4-6a3b-4158-88ea-b8b392d9e4f4](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTczNCwicHVyIjoiYmxvYl9pZCJ9fQ==--5928ccb1c361e31c3bb4495837b6cd4a51e22790/d1d4d7f4-6a3b-4158-88ea-b8b392d9e4f4.png)
+
+
+  
+
