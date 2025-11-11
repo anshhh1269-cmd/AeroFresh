@@ -19,7 +19,7 @@ My first goal for my first hardware project was to create something useful, as w
 
 ## Screenshots and Renders
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/bf4fec52-397c-4f7a-9e72-a22f5b665367" />
+
 <img width="1547" height="857" alt="image" src="https://github.com/user-attachments/assets/36fe1400-cf37-4dfb-ab5b-760997b8d0b4" />
 <img width="1092" height="803" alt="image" src="https://github.com/user-attachments/assets/47bc156c-8231-4114-8a8d-064b3cd165f2" />
 
