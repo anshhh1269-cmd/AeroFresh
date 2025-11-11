@@ -28,6 +28,9 @@ My first goal for my first hardware project was to create something useful, as w
 <img width="1896" height="840" alt="image" src="https://github.com/user-attachments/assets/7bddf254-19cf-4cab-a9af-cdff3b292500" />
 
 
+**please download the step file to look at what components are there in the wiring diagram, like their names.**
+
+
 
 
 
