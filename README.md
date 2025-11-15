@@ -25,7 +25,11 @@ My first goal for my first hardware project was to create something useful, as w
 
 ## Wiring Diagram
 
-<img width="1896" height="840" alt="image" src="https://github.com/user-attachments/assets/7bddf254-19cf-4cab-a9af-cdff3b292500" />
+<img width="1005" height="797" alt="image" src="https://github.com/user-attachments/assets/81f4b3f8-c331-4178-b974-a594247672ad" />
+<img width="1783" height="892" alt="image" src="https://github.com/user-attachments/assets/f124644d-d616-4827-9582-0516aca25108" />
+<img width="1777" height="766" alt="Screenshot 2025-11-15 221229" src="https://github.com/user-attachments/assets/4d158154-a41b-405d-852c-1525fc3ab01c" />
+
+
 
 
 **please download the step file to look at what components are there in the wiring diagram, like their names.**
