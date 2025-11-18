@@ -19,14 +19,17 @@ My first goal for my first hardware project was to create something useful, as w
 
 ## Screenshots and Renders
 
-<img width="1005" height="797" alt="image" src="https://github.com/user-attachments/assets/81f4b3f8-c331-4178-b974-a594247672ad" />
+<img width="1462" height="873" alt="Screenshot 2025-11-18 202320" src="https://github.com/user-attachments/assets/88963ed3-8e91-4288-9ff3-888b0afeb611" />
+<img width="1470" height="767" alt="Screenshot 2025-11-18 202342" src="https://github.com/user-attachments/assets/7d240b95-7951-42a8-8fe6-cf6115162084" />
+
+
 
 
 ## Wiring Diagram
 
 
-<img width="1783" height="892" alt="image" src="https://github.com/user-attachments/assets/f124644d-d616-4827-9582-0516aca25108" />
-<img width="1777" height="766" alt="Screenshot 2025-11-15 221229" src="https://github.com/user-attachments/assets/4d158154-a41b-405d-852c-1525fc3ab01c" />
+<img width="1629" height="940" alt="Screenshot 2025-11-18 194003" src="https://github.com/user-attachments/assets/e757a904-b810-4c69-8446-7fef51de4595" />
+<img width="1463" height="934" alt="Screenshot 2025-11-18 194034" src="https://github.com/user-attachments/assets/f76adde8-eecb-4f48-a7ef-8c728b3bb09d" />
 
 
 
